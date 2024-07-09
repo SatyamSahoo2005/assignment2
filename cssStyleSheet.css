@@ -343,14 +343,14 @@ tr {
   }
   .edit-box button {
     padding: 5px 10px;
-    background-color: #5cb15f;
+    background-color: #ffffff;
     color: #fff;
     border: none;
     border-radius: 5px;
     cursor: pointer;
   }
   .edit-box button:hover {
-    background-color: #2b922e;
+    background-color: #0a0a0a;
   }
   .buttons {
     margin-top: 20px;
