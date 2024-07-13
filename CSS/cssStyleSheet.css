@@ -363,6 +363,9 @@ tr {
     padding: 10px 20px;
     cursor: pointer;
   }
+  #save-btn:hover {
+    background-color: #bbb;
+  }  
   #cancel-btn {
     background-color: #fd0303;
     color: #333;
